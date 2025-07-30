@@ -24,12 +24,10 @@ This repository contains a **static mockup of the LinkedIn homepage** and a depl
 Clone this repository and run the deployment script:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/sohaibmohd18/static-html-on-nginx.git
+cd static-html-on-nginx
 sudo bash deploy_static_page.sh
 ```
-
-> ⚠️ Replace `<your-username>` and `<your-repo-name>` with your actual GitHub details.
 
 ---
 
